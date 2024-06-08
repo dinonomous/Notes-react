@@ -78,7 +78,7 @@
   display: block;
 }
 
-.fotter{
+.fotter_note{
   position: absolute;
   width: calc(300px - 40px);
   bottom: 20px;
